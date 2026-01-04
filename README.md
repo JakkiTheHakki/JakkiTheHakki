@@ -1,3 +1,6 @@
+![](banner.png)
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Building and maintaining server & network environment.<br> <br>🌱 I’m currently learning<br>Enterprise networking basics, firewall management, network monitoring, and cybersecurity<br> — along with Windows Server, Active Directory, Microsoft Defender, and Azure.<br><br>🎓 I’m a student<br>Learning IT and networking through hands-on projects.<br><br>⚡ Fun fact<br>I run my own physical server and enjoy learning by building things myself.<br><br>📜 Certifications<br>Microsoft MS-900 and AZ-900 certified.
 
